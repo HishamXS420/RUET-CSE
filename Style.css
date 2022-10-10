@@ -1,0 +1,72 @@
+.Beginning-segment {
+    background-image: linear-gradient(rgb(66, 66, 186), navy);
+    background-repeat: repeat;
+    display: flex;
+    background-position-y: top;
+
+
+}
+
+.Department-info {
+    color: beige;
+    font-size: 30px;
+    padding-left: 35px;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+
+.University {
+    padding-left: 35px;
+    color: rgb(164, 215, 236);
+    font-size: 30px;
+    padding-bottom: 50px;
+
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#Search {
+    padding-left: 10px;
+    margin-left: 400px;
+}
+
+.Search-Button {
+    background-image: linear-gradient(salmon, orange);
+    color: azure;
+    border-radius: 3px;
+    font-weight: 700;
+}
+
+.Search-bar {
+    display: flex;
+}
+
+.LOGO {
+    height: 160px;
+    padding-left: 40px;
+
+    padding-bottom: 10px;
+
+}
+
+h4 {
+    display: inline;
+
+}
+
+.About_RUET {
+
+    font-size: 15px;
+    color: orange;
+    text-decoration: none;
+    font-weight: 700;
+    text-align: center;
+    padding-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: 10px gray;
+    ;
+
+}
+
+.Streamline {
+    display: flex
+}

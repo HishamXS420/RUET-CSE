@@ -1,5 +1,9 @@
+body {
+    margin: 0;
+}
+
 .Beginning-segment {
-    background-image: linear-gradient(rgb(66, 66, 186), navy);
+    background-image: linear-gradient(rgb(63, 63, 190), rgb(2, 2, 118));
     background-repeat: repeat;
     display: flex;
     background-position-y: top;
@@ -92,4 +96,96 @@ h4 {
 
 .Positioning {
     padding-top: 15px;
+}
+
+.Background-Stats {
+
+    display: flex;
+    margin: 0;
+}
+
+.Beginning-title {
+
+    font-size: 30px;
+    color: rgb(206, 141, 37);
+    padding-left: 5px;
+    font-weight: 700;
+}
+
+.Paragraph-1 {
+    color: rgb(39, 81, 122);
+    padding-right: 10px;
+    font-size: 25px;
+    font-weight: 300;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 5px;
+}
+
+.Resillience {
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 1%;
+    padding-left: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px 15px gray;
+    border-left: 10px solid red;
+    border-right: 8px solid navy;
+}
+
+.Paragraph-2 {
+    color: rgb(39, 81, 122);
+    padding-right: 10px;
+    font-size: 20px;
+    font-weight: 300;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 5px;
+
+}
+
+.Professor {
+    color: navy;
+    text-decoration: none;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+
+}
+
+.Message {
+    width: 72%;
+    margin-left: 1%;
+    margin-right: 5%;
+    margin-bottom: 1%;
+    margin-top: 3%;
+    padding-left: 20px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 20px 15px rgb(71, 70, 70);
+    border-left: 10px solid red;
+    border-right: 8px solid navy;
+
+}
+
+.Details-of-PROF {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 17px;
+
+}
+
+.Head {
+
+    display: flex;
+}
+
+.Image-of-Professor {
+
+    width: 30%;
+    padding-top: 50px;
+    border-radius: 10px;
+
+
+
+
 }
